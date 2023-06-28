@@ -17,7 +17,5 @@ console.log(Number.MAX_SAFE_INTEGER);
 var numero4 = new Number(150)
 console.log(numero4)
 
-console.log(numero.toString())
+console.log(numero4.toString())
 
-
-// 
